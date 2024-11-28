@@ -1,6 +1,6 @@
 Created a To-Do List API following the criteria set by https://roadmap.sh/projects/todo-list-api:
 
-User registration to create a new user
+User registration to create a new user \n
 Login endpoint to authenticate the user and generate a token
 CRUD operations for managing the to-do list
 Implement user authentication to allow only authorized users to access the to-do list
